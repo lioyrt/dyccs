@@ -1,0 +1,26 @@
+# ===== 系统与编辑器 =====
+Thumbs.db
+.DS_Store
+desktop.ini
+.vscode/
+.idea/
+*.swp
+*~
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+.pytest_cache/
+
+# ===== Node / 前端 =====
+node_modules/
+dist/
+build/
+*.log
+
+# ===== 密钥与本地配置（请勿上传真实密钥）=====
+.env
+.env.*
